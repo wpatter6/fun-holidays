@@ -7,5 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "wpatter6",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://github.com/wpatter6/fun-holidays",
+  "repository": "github:wpatter6/fun-holidays"
 }
