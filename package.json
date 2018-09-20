@@ -1,0 +1,11 @@
+{
+  "name": "fun-holidays",
+  "version": "1.0.0",
+  "description": "Returns a holiday which falls on a given date",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wpatter6",
+  "license": "ISC"
+}
